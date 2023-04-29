@@ -1,0 +1,41 @@
+h1{
+    text-align: center;
+}
+.solido{
+    border:solid red;
+    border-width: 5px;
+    border-radius: 20px;
+}
+.solido2{
+    border:solid blueviolet;
+    border-width: 5px;
+    border-radius: 20px;
+}
+.solido3{
+    border:solid steelblue;
+    border-width: 5px;
+    border-radius: 20px;
+}
+.solido4{
+    border:solid grey;
+    border-width: 5px;
+    border-radius: 20px;
+}
+.solido5{
+    border:solid blue;
+    border-width: 5px;
+    border-radius: 20px;
+}
+.model{
+    color:rgb(163, 140, 140);
+}
+.courier{
+    font-family: 'Courier New', Courier, monospace;
+}
+.verdana{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-weight: 900;
+}
+.fon{
+    color:azure;
+}
